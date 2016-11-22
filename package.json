@@ -1,0 +1,17 @@
+{
+  "name": "myo_control_client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "joshua",
+  "license": "ISC",
+  "dependencies": {
+    "myo": "^2.1.1",
+    "request": "^2.79.0",
+    "sleep": "^5.0.0"
+  }
+}
